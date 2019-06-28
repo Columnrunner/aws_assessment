@@ -1,19 +1,25 @@
 Short Answer
+
 1.	Highlight few differences between Block storage ( EBS ) & Object storage (s3)
+
 EBS is block level storage, S3 is object storage.
 EBS is accessible only through the EC2 instances, on the other hand S3 can be publicly accessible.
 S3 is normally cheaper than EBS.
+
 2.	Highlight few differences between NoSQL & SQL databases
 SQL db is used to store structured tabular data, NoSQL is used to store relatively unstructured key/value based data.
 NoSQL uses hierarchical data storage, and SQL has no hierarchical data storage
+
 3.	Highlight few differences between ssh & http protocol
 http protocol is not secured during transition of data packets. SSH creates a secure tunnel between client and server, hence it’s much more secured than http.
+
 Tasks 1
 1.	Create a new ec2 instance & new key ( AWS Ohio region )
 
 Task 2
 1.	Create a S3 bucket with <yourname>_final ( Ohio region )
 2.	Create 2 IAM users, one with readonly s3 access, another with s3fullaccess
+
 Task 3:
 1.	Upload the file https://github.com/becloudready/rds-tutorials/blob/master/mysql/mysqlsampledatabase.sql into your s3 bucket
 2.	Download the aforesaid uploaded ( mysqlsampledatabase.sql ) into your ec2 instance ( cmdline )
