@@ -1,0 +1,56 @@
+Short Answer
+1.	Highlight few differences between Block storage ( EBS ) & Object storage (s3)
+EBS is block level storage, S3 is object storage.
+EBS is accessible only through the EC2 instances, on the other hand S3 can be publicly accessible.
+S3 is normally cheaper than EBS.
+2.	Highlight few differences between NoSQL & SQL databases
+SQL db is used to store structured tabular data, NoSQL is used to store relatively unstructured key/value based data.
+NoSQL uses hierarchical data storage, and SQL has no hierarchical data storage
+3.	Highlight few differences between ssh & http protocol
+http protocol is not secured during transition of data packets. SSH creates a secure tunnel between client and server, hence it’s much more secured than http.
+Tasks 1
+1.	Create a new ec2 instance & new key ( AWS Ohio region )
+
+Task 2
+1.	Create a S3 bucket with <yourname>_final ( Ohio region )
+2.	Create 2 IAM users, one with readonly s3 access, another with s3fullaccess
+Task 3:
+1.	Upload the file https://github.com/becloudready/rds-tutorials/blob/master/mysql/mysqlsampledatabase.sql into your s3 bucket
+2.	Download the aforesaid uploaded ( mysqlsampledatabase.sql ) into your ec2 instance ( cmdline )
+3.	Write the command that you used for step #2
+
+aws s3 cp s3://yunfeimaofinal/mysqlsampledatabase.sql.txt mysqlsampledatabase.sql.txt
+
+Task 4:
+
+1.	On ec2 instance Count number of lines of the mysqldump file ( downloaded from s3)
+
+wc l mysqlsampledatabase.sql.txt
+(4065 lines in total)
+
+2.	Create a new file from the file mysqlsampledatabase.sql where every word “mysql” is replaced with “yoursql” 
+
+sed ‘s/mysql/yoursql/g’ mysqlsampledatabase.sql > yoursql.txt
+
+3.	( bonus ) Count how many times word NULL appeared on mysqlsampledatabase.sql file.
+
+Task 5:
+
+1.	Create an RDS MariaDB instance on AWS Ohio region. (I’ve messed up Ohio region before, deleted a default vpc, That’s why I created it in Virginia)
+
+mysql -htestmariadb.cncnrpa0hfac.us-east-1.rds.amazonaws.com -uMAO -pmypassword
+
+2.	Import the mysql dump file mysqlsampledatabase.sql into the RDS database
+
+mysql -htestmariadb.cncnrpa0hfac.us-east-1.rds.amazonaws.com -uMAO -pmypassword < mysqlsampledatabase.sql.txt
+
+Task 6:
+
+1.	Write an SQL query on the database created on step 5 : Select all customer names, and product names from the database in single query.
+select c.customerName, p.productName from customers c inner join orders o on c.customerNumber = o.customerNumber inner join orderdetails od on o.orderNumber = od.orderNumber inner join products p on od.productCode = p.productCode;
+2996 rows returned
+
+Task 7:
+
+1.	Push your each answer as separate git commit into a new repository called aws_assessment. ( Don’t put any AWS keys, secret, passwords into the commit, of delete the keys before you push them )
+
