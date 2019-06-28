@@ -42,7 +42,7 @@ sed ‘s/mysql/yoursql/g’ mysqlsampledatabase.sql > yoursql.txt
 
 3.	( bonus ) Count how many times word NULL appeared on mysqlsampledatabase.sql file.
 
-grep -o -i 'null' mysqlsampledatabase.sql
+grep -o -i 'null' mysqlsampledatabase.sql | wc -l
 
 Task 5:
 
