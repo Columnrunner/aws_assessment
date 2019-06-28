@@ -1,0 +1,135 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Oblique;\f2\fswiss\fcharset0 Helvetica-Bold;
+\f3\fmodern\fcharset0 Courier;\f4\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;\red180\green95\blue6;\red102\green102\blue102;\red17\green85\blue204;
+\red59\green35\blue34;}
+{\*\expandedcolortbl;;\csgenericrgb\c70588\c37255\c2353;\csgenericrgb\c40000\c40000\c40000;\csgenericrgb\c6667\c33333\c80000;
+\csgenericrgb\c23137\c13725\c13333;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid601\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid701\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid801\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid901\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1001\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid12}
+{\list\listtemplateid13\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid13}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}}
+\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\ri0\sb200\qc\partightenfactor0
+
+\f0\fs84 \cf2 AWS,Git, Linux \
+\pard\pardeftab720\ri0\sl312\slmult1\sb120\qc\partightenfactor0
+
+\f1\i\fs26 \cf3 Assessment Plan for Collabra\
+\pard\pardeftab720\ri0\sl312\slmult1\qc\partightenfactor0
+\cf3 Prepared by beCloudReady\
+\pard\pardeftab720\ri0\sl312\slmult1\sb480\partightenfactor0
+
+\f0\i0\fs28 \cf2 OVERVIEW & PURPOSE\
+\pard\pardeftab720\ri0\sl312\slmult1\sb200\partightenfactor0
+
+\fs22 \cf3 Assessment readiness for AWS, Git and Linux skills\
+\pard\pardeftab720\ri0\sl312\slmult1\sb480\partightenfactor0
+\cf3 Short Answer
+\fs28 \cf2 \
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls1\ilvl0
+\fs22 \cf0 1.	\cf3 Highlight few differences between Block storage ( EBS ) & Object storage (s3)\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\sb200\partightenfactor0
+\cf3 EBS is block level storage, S3 is object storage.\
+EBS is accessible only through the EC2 instances, on the other hand S3 can be publicly accessible.\
+S3 is normally cheaper than EBS.
+\f2\b \
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls2\ilvl0
+\f0\b0 \cf0 2.	\cf3 Highlight few differences between NoSQL & SQL databases\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\sb200\partightenfactor0
+\cf3 SQL db is used to store structured tabular data, NoSQL is used to store relatively unstructured key/value based data.\
+NoSQL uses hierarchical data storage, and SQL has no hierarchical data storage\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls3\ilvl0\cf0 3.	\cf3 Highlight few differences between ssh & http protocol\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\sb200\partightenfactor0
+\cf3 http protocol is not secured during transition of data packets. SSH creates a secure tunnel between client and server, hence it\'92s much more secured than http.\
+\pard\pardeftab720\ri0\sl312\slmult1\sb480\partightenfactor0
+\cf3 Tasks 1\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls4\ilvl0\cf0 1.	\cf3 Create a new ec2 instance & new key ( AWS Ohio region )\
+\pard\pardeftab720\ri0\sl312\slmult1\sb200\partightenfactor0
+\cf3 \
+Task 2\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls5\ilvl0\cf0 1.	\cf3 Create a S3 bucket with <yourname>_final ( Ohio region )\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\partightenfactor0
+\ls5\ilvl0\cf0 2.	\cf3 Create 2 IAM users, one with readonly s3 access, another with s3fullaccess\
+\pard\pardeftab720\ri0\sl312\slmult1\sb200\partightenfactor0
+\cf3 Task 3:\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls6\ilvl0\cf0 1.	\cf3 Upload the file {\field{\*\fldinst{HYPERLINK "https://github.com/becloudready/rds-tutorials/blob/master/mysql/mysqlsampledatabase.sql"}}{\fldrslt \cf4 \ul \ulc4 https://github.com/becloudready/rds-tutorials/blob/master/mysql/mysqlsampledatabase.sql}} into your s3 bucket\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\partightenfactor0
+\ls6\ilvl0\cf0 2.	\cf3 Download the aforesaid uploaded ( mysqlsampledatabase.sql ) into your ec2 instance ( cmdline )\
+\ls6\ilvl0\cf0 3.	\cf3 Write the command that you used for step #2\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\partightenfactor0
+\cf3 \
+\pard\pardeftab720\ri0\sl312\slmult1\sb200\partightenfactor0
+
+\f3\fs24 \cf5 aws s3 cp s3://yunfeimaofinal/mysqlsampledatabase.sql.txt mysqlsampledatabase.sql.txt
+\f0\fs22 \cf3 \
+\
+Task 4:\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls7\ilvl0\cf0 1.	\cf3 On ec2 instance Count number of lines of the mysqldump file ( downloaded from s3)\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\sb200\partightenfactor0
+
+\f3\fs24 \cf5 wc l mysqlsampledatabase.sql.txt\
+(4065 lines in total)\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\sb200\partightenfactor0
+
+\f0\fs22 \cf3 \
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\partightenfactor0
+\ls8\ilvl0\cf0 2.	\cf3 Create a new file from the file mysqlsampledatabase.sql where every word \'93mysql\'94 is replaced with \'93yoursql\'94 \
+\pard\pardeftab720\li720\ri0\sl312\slmult1\partightenfactor0
+\cf3 \
+\pard\pardeftab720\li720\ri0\sl312\slmult1\partightenfactor0
+
+\f4 \cf3 sed \'91s/mysql/yoursql/g\'92 mysqlsampledatabase.sql > \cf5 yoursql.txt\cf3 \
+\pard\pardeftab720\li720\ri0\sl312\slmult1\partightenfactor0
+
+\f0 \cf3 \
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\partightenfactor0
+\ls9\ilvl0\cf0 3.	\cf3 ( bonus ) Count how many times word NULL appeared on mysqlsampledatabase.sql file.\
+\pard\pardeftab720\ri0\sl312\slmult1\sb200\partightenfactor0
+\cf3 \
+Task 5:\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls10\ilvl0\cf0 1.	\cf3 Create an RDS MariaDB instance on AWS Ohio region. (I\'92ve messed up Ohio region before, deleted a default vpc, That\'92s why I created it in Virginia)\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\sb200\partightenfactor0
+
+\f3\fs24 \cf5 mysql -htestmariadb.cncnrpa0hfac.us-east-1.rds.amazonaws.com -uMAO -pmypassword\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\sb200\partightenfactor0
+
+\f0\fs22 \cf3 \
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\partightenfactor0
+\ls11\ilvl0\cf0 2.	\cf3 Import the mysql dump file mysqlsampledatabase.sql into the RDS database\
+\pard\pardeftab720\ri0\sl312\slmult1\sb200\partightenfactor0
+
+\f3\fs24 \cf5 mysql -htestmariadb.cncnrpa0hfac.us-east-1.rds.amazonaws.com -uMAO -pmypassword < mysqlsampledatabase.sql.txt
+\f0\fs22 \cf3 \
+Task 6:\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls12\ilvl0\cf0 1.	\cf3 Write an SQL query on the database created on step 5 : Select all customer names, and product names from the database in single query.\
+\pard\pardeftab720\li720\ri0\sl312\slmult1\sb200\partightenfactor0
+
+\f3\fs24 \cf5 select c.customerName, p.productName from customers c inner join orders o on c.customerNumber = o.customerNumber inner join orderdetails od on o.orderNumber = od.orderNumber inner join products p on od.productCode = p.productCode;\
+\pard\pardeftab720\ri0\sl312\slmult1\sb200\partightenfactor0
+\cf5 2996 rows returned
+\f0\fs22 \cf3 \
+Task 7:\
+\pard\pardeftab720\li720\fi-360\ri0\sl312\slmult1\sb200\partightenfactor0
+\ls13\ilvl0\cf0 1.	\cf3 Push your each answer as separate git commit into a new repository called aws_assessment. ( Don\'92t put any AWS keys, secret, passwords into the commit, of delete the keys before you push them )\
+}
