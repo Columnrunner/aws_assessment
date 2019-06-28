@@ -42,6 +42,8 @@ sed ‘s/mysql/yoursql/g’ mysqlsampledatabase.sql > yoursql.txt
 
 3.	( bonus ) Count how many times word NULL appeared on mysqlsampledatabase.sql file.
 
+grep -o -i 'null' mysqlsampledatabase.sql
+
 Task 5:
 
 1.	Create an RDS MariaDB instance on AWS Ohio region. (I’ve messed up Ohio region before, deleted a default vpc, That’s why I created it in Virginia)
