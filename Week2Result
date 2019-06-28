@@ -7,10 +7,12 @@ EBS is accessible only through the EC2 instances, on the other hand S3 can be pu
 S3 is normally cheaper than EBS.
 
 2.	Highlight few differences between NoSQL & SQL databases
+
 SQL db is used to store structured tabular data, NoSQL is used to store relatively unstructured key/value based data.
 NoSQL uses hierarchical data storage, and SQL has no hierarchical data storage
 
 3.	Highlight few differences between ssh & http protocol
+
 http protocol is not secured during transition of data packets. SSH creates a secure tunnel between client and server, hence it’s much more secured than http.
 
 Tasks 1
@@ -52,7 +54,9 @@ mysql -htestmariadb.cncnrpa0hfac.us-east-1.rds.amazonaws.com -uMAO -pmypassword 
 
 Task 6:
 
-1.	Write an SQL query on the database created on step 5 : Select all customer names, and product names from the database in single query.
+1.	Write an SQL query on the database created on step 5 : 
+
+Select all customer names, and product names from the database in single query.
 select c.customerName, p.productName from customers c inner join orders o on c.customerNumber = o.customerNumber inner join orderdetails od on o.orderNumber = od.orderNumber inner join products p on od.productCode = p.productCode;
 2996 rows returned
 
